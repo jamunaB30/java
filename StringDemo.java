@@ -3,7 +3,7 @@ class StringDemo
 {
 public static void main(String []args)
 {
-String s1=new String("Welcome");
+String s1=new String("welcome");
 String s2="polytechnic";
 String s3="POLYTECHNIC";
 System.out.println("the String s1 is:"+s1);
